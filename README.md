@@ -66,8 +66,8 @@ This project was built as part of a personal learning goal to improve at **featu
 
 4. Submit predictions:
    ```
-   submission/submission_xgb.csv
-   submission/submission_rf_tuned.csv
+   submission_xgb.csv
+   submission_rf_tuned.csv
    ```
 
 ---
@@ -82,7 +82,7 @@ This project was built as part of a personal learning goal to improve at **featu
 
 ---
 
-## 📎 Dataset Source
+## Dataset Source
 
 - [Kaggle Competition: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
